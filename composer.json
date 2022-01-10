@@ -1,5 +1,5 @@
 {
-  "name" : "fucx/torcurl",
+  "name" : "olect/torcurl",
   "description" : "Curl wrapper utilizing tor proxy",
   "license" : "BSD-3-Clause",
   "require" : {
