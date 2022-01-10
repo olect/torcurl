@@ -11,6 +11,7 @@
     "homepage" : "http://cv.olethorsen.no"
   } ],
   "keywords" : [ "tor", "tor client", "anonynimity", "onion", "curl" ],
+  "minimum-stability": "1.0.0",
   "autoload" : {
     "psr-4" : {
       "Fucx\\TorCurl\\" : "src/"
