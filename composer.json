@@ -1,0 +1,24 @@
+{
+  "name" : "fucx/torcurl",
+  "description" : "Curl wrapper utilizing tor proxy",
+  "license" : "BSD-3-Clause",
+  "require" : {
+    "php" : ">=7.1"
+  },
+  "authors" : [ {
+    "name" : "Ole Christoffer Thorsen",
+    "email" : "post@olethorsen.no",
+    "homepage" : "http://cv.olethorsen.no"
+  } ],
+  "keywords" : [ "tor", "tor client", "anonynimity", "onion", "curl" ],
+  "autoload" : {
+    "psr-4" : {
+      "Fucx\\TorCurl\\" : "src/"
+    }
+  },
+  "type" : "library",
+  "homepage" : "https://github.com/olect/TorCurl",
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  }
+}
