@@ -21,5 +21,6 @@
   "homepage" : "https://github.com/olect/TorCurl",
   "require-dev": {
     "phpunit/phpunit": "^5.7"
-  }
+  },
+  "prefer-stable": true
 }
